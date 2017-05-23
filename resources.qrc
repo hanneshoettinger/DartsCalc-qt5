@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dartboard.png</file>
+        <file>sounds/180.mp3</file>
+        <file>sounds/game_on.mp3</file>
+        <file>sounds/26.mp3</file>
+        <file>sounds/41.mp3</file>
+        <file>sounds/55.mp3</file>
+        <file>sounds/60.mp3</file>
+        <file>sounds/85.mp3</file>
+        <file>sounds/100.mp3</file>
+        <file>sounds/137.mp3</file>
+        <file>sounds/140.mp3</file>
+        <file>sounds/177.mp3</file>
+        <file>sounds/thank_you.mp3</file>
+    </qresource>
+</RCC>
